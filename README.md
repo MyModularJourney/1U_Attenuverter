@@ -1,4 +1,7 @@
 # 1U_Attenuverter
+
+<img src="Attenuverter.jpg" alt="Attenuverter module front side" width="300"/>
+
 1U Attenuverter or passive attenuator
 
 Practical 6hp 1U utility module that can be built in 3 different configurations
